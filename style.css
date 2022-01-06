@@ -1,5 +1,9 @@
 body{
     margin: 0px;
+    
+font-family: 'Poppins', sans-serif;
+
+    
 }
 
 h1{
@@ -8,6 +12,8 @@ h1{
 }
 .first-section{
     display: flex;
+    background-color: rgba(234, 235, 161, 0.685);
+    margin: 20px ;
 }
 .line-color-1{
     color: rgb(14, 161, 51);
@@ -23,6 +29,7 @@ h1{
 .width-size img{
     width: 60%;
     height: 100%;
+    border-radius: 25px;
     
 }
 
@@ -43,6 +50,7 @@ h1{
 .text-position{
     text-align: center;
     font-size: 50px;
+    margin: 20px;
 }
 .orange-color{
     color: orange;
@@ -51,19 +59,24 @@ h1{
     display: flex;
     text-align: center;
   width: 90%;
-  margin: auto;
-  padding: 50px;
+  margin: 20px;
+  padding: 20px;
   justify-content: space-around;
+}
+.color-set{
+    background-color: rgba(236, 182, 243, 0.698);
+    margin: 20px ;
 }
 .three-part-one
 {
     
     border-radius: 20px;
   box-shadow: 4px 4px 12px gray;
-  width: 360px;
-  height: 376px;
+  width: 500px;
+  height: 500px;
   text-align: left;
   background-color: #caeff3;
+  
 }
 .three-part-one img{
     width: 141px;
@@ -74,8 +87,8 @@ h1{
     
     border-radius: 20px;
   box-shadow: 4px 4px 12px gray;
-  width: 360px;
-  height: 376px;
+  width: 500px;
+  height: 500px;
   text-align: left;
   background-color: #f5cccc;
 }
@@ -86,8 +99,8 @@ h1{
 .three-part-last{
     border-radius: 20px;
   box-shadow: 4px 4px 12px gray;
-  width: 360px;
-  height: 376px;
+  width: 500px;
+  height: 500px;
   text-align: left;
   background-color: #FFF4D6;
 }
@@ -97,13 +110,18 @@ h1{
 }
 .third-section{
     display: flex;
+    background-image: url(/Images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+    background-color: rgba(50, 175, 81, 0.657);
+    margin: 20px;
 }
-.third-section img{
-    width: 40%;
-    height: 50%;
-}
+
 .forth-section{
     display: flex;
+    background-color: rgb(235, 146, 187);
+    margin:20px;
 }
 
 
@@ -119,3 +137,13 @@ h1{
 .red-color {
 color: red;
 }
+.font-decoration{
+
+   font-family: 'Lobster', cursive;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'The Nautigal', cursive
+
+}
+
