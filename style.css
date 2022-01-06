@@ -37,8 +37,64 @@ h1{
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: 700;
+    border-radius: 15px;
 }
 
+.text-position{
+    text-align: center;
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.second-section{
+    display: flex;
+    text-align: center;
+  width: 90%;
+  margin: auto;
+  padding: 50px;
+  justify-content: space-around;
+}
+.three-part-one
+{
+    
+    border-radius: 20px;
+  box-shadow: 4px 4px 12px gray;
+  width: 360px;
+  height: 376px;
+  text-align: left;
+  background-color: #caeff3;
+}
+.three-part-one img{
+    width: 141px;
+    height: 141px;
+}
+.three-part-two
+{
+    
+    border-radius: 20px;
+  box-shadow: 4px 4px 12px gray;
+  width: 360px;
+  height: 376px;
+  text-align: left;
+  background-color: #f5cccc;
+}
+.three-part-two img{
+    width: 141px;
+    height: 141px;
+}
+.three-part-last{
+    border-radius: 20px;
+  box-shadow: 4px 4px 12px gray;
+  width: 360px;
+  height: 376px;
+  text-align: left;
+  background-color: #FFF4D6;
+}
+.three-part-last img{
+    width: 141px;
+    height: 141px;
+}
 .third-section{
     display: flex;
 }
@@ -48,4 +104,18 @@ h1{
 }
 .forth-section{
     display: flex;
+}
+
+
+.footer-content {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  
+}
+.red-color {
+color: red;
 }
