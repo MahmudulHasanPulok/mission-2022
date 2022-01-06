@@ -112,7 +112,7 @@ h1{
 }
 .third-section{
     display: flex;
-    background-image: url(/Images/shapes/shape-1.png);
+    background-image: url(./Images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 200px;
@@ -122,7 +122,7 @@ h1{
 
 .forth-section{
     display: flex;
-    background-image: url(/Images/shapes/shape-2.png);
+    background-image: url(./Images/shapes/shape-2.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 150px;
