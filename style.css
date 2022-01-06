@@ -14,6 +14,9 @@ h1{
     display: flex;
     background-color: rgba(147, 206, 240, 0.685);
     margin: 20px ;
+    padding: 25px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 12px gray;
 }
 .line-color-1{
     color: rgb(14, 161, 51);
@@ -37,9 +40,9 @@ h1{
 }
 
 .heading-border-left{
-    border-image: linear-gradient(green, red);
+    border-image: linear-gradient(green, rgb(221, 18, 18));
     border-image-slice: 1;
-    border-left: 3px solid;
+    border-left: 7px solid;
 }
 .button-link{
     text-decoration: none;
@@ -61,10 +64,10 @@ h1{
 .second-section{
     display: flex;
     text-align: center;
-    width: 90%;
-    margin: 20px;
-    padding: 20px;
-    justify-content: space-around;
+    width: 98%;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-between;
 }
 .color-set{
     background-color: rgba(236, 182, 243, 0.698);
@@ -78,6 +81,7 @@ h1{
     height: 500px;
     text-align: left;
     background-color: #caeff3;
+    padding: 15px;
   
 }
 .three-part-one img{
@@ -93,6 +97,7 @@ h1{
     height: 500px;
     text-align: left;
     background-color: #f5cccc;
+    padding: 15px;
 }
 .three-part-two img{
     width: 141px;
@@ -105,6 +110,7 @@ h1{
     height: 500px;
     text-align: left;
     background-color: #FFF4D6;
+    padding: 15px;
 }
 .three-part-last img{
     width: 141px;
@@ -118,6 +124,9 @@ h1{
     background-size: 200px;
     background-color: rgba(50, 175, 81, 0.657);
     margin: 20px;
+    padding: 25px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 12px gray;
 }
 
 .forth-section{
@@ -128,6 +137,9 @@ h1{
     background-size: 150px;
     background-color: rgb(235, 146, 187);
     margin:20px;
+    padding: 25px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 12px gray;
 }
 
 
