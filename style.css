@@ -32,6 +32,9 @@ h1{
     border-radius: 25px;
     
 }
+.width-size-check{
+    width: 70%;
+}
 
 .heading-border-left{
     border-image: linear-gradient(green, red);
@@ -69,13 +72,12 @@ h1{
 }
 .three-part-one
 {
-    
     border-radius: 20px;
-  box-shadow: 4px 4px 12px gray;
-  width: 500px;
-  height: 500px;
-  text-align: left;
-  background-color: #caeff3;
+    box-shadow: 4px 4px 12px gray;
+    width: 500px;
+    height: 500px;
+    text-align: left;
+    background-color: #caeff3;
   
 }
 .three-part-one img{
